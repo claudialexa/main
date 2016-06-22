@@ -14,6 +14,7 @@ hr {
 
 h4.feat {
   color: #000000;
+  font-size: 20px;
   padding-top: 10px;
 }
 
@@ -43,6 +44,10 @@ p.howto{
   padding-top: 10px;
 }
 
+img.phone{
+  padding-bottom: 10px;
+}
+
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #000000 !important;
 }
@@ -61,6 +66,7 @@ img.icon {
   padding-bottom: 15px;
   height: 120;
 }
+
 
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
