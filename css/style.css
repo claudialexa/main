@@ -102,7 +102,7 @@ img.icon {
   border-bottom: 1px;
   background-color: #dedede;
   color: #fff;
-  border-bottom: 1px solid #ffcc33;
+  border-bottom: 1px solid #7e9f53;
   background: url(../img/background.png)
 }
 .jumbotron .btn {
@@ -154,6 +154,6 @@ nav a {
 }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
-    color: #fce3a4;
-    background-color: #ffcc33;
+    color: #ffffff;
+    background-color: #7e9f53;
 }
