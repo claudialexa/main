@@ -35,7 +35,7 @@ p.main{
 
 p.lead {
   padding-top: 10px;
-  font-size: 14px;
+  font-size: 16px;
   color: #000000;
 }
 
@@ -45,6 +45,10 @@ p.howto{
 }
 
 img.phone{
+  padding-bottom: 10px;
+}
+
+img.process{
   padding-bottom: 10px;
 }
 
@@ -162,4 +166,19 @@ nav a {
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     color: #ffffff;
     background-color: #7e9f53;
+}
+
+figure {
+    display: inline-block;
+    margin: 10px; /* adjust as needed */
+    overflow: hidden;
+}
+
+figure figcaption {
+  padding: 5px;
+  height: 65px;
+  width:90%;
+  text-align: left;
+  overflow: hidden;
+
 }
